@@ -37,8 +37,8 @@
 - [React官方资源](#React官方资源)
 - [React入门教程](#React入门教程)
 - [视频教程](#视频教程)
-- [React](#react)
-- [React Router](#react-router)
+- [优质博客](#优质博客)
+- [开源电子书](#开源电子书)
 - [React Hook Form](#react-hook-form)
 - [GraphQL](#graphql)
 - [Highcharts](#highcharts)
@@ -69,7 +69,6 @@
 - [1小时快速入门node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4) 学习react前了解基本的 Node.js 概念足够
 - [AI全栈导师](https://www.studywithgpt.com/zh-cn) 利用AI技术自动生成教学文档，适合基础不扎实去细化学习。
 
-完成后，你可以通过[这个练习](https://github.com/nareshbhatia/react-takeout-exercise)来测试你的理解。
 
 ## React官方资源
 
@@ -98,18 +97,20 @@
 - [React JS 初学者完整课程](https://www.youtube.com/watch?v=RVFAyFWO4go) - 包含近 9 小时的 React JS 代码和指导
 - [边学边练](https://www.youtube.com/watch?v=iKpkVKubvKk) - 用React部署 3 个现代 Web 应用程序
 
-## 推荐博客
 
+## 优质博客
+- [React 状态管理](https://www.redux.org.cn/) - Redux 中文文档
+- [前端精读周刊](https://github.com/ascoders/weekly) - Redux 中文文档
+- [React 状态管理](https://www.redux.org.cn/) - 包含大量 React 文章
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) - 包含对于前端领域的独特见解
 - [Dan Abramov的博客](https://overreacted.io/)
 - [Kent C. Dodd的博客](https://kentcdodds.com/)
 
 ## 开源电子书
 - [React 技术揭秘](https://react.iamkasong.com/) - React 源码解析
 - [React 入门指南](https://www.kancloud.cn/kancloud/react-quickstart/44631) - 快速入门React
-- [React 技术揭秘](https://react.iamkasong.com/) - React 源码解析
 - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html) - 很细的入门教程
-- [React 入门教程](https://softchris.github.io/react-book/#/) - 很细的入门教程
-- [React Book](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html) - 关于 React 的免费书籍。适合初学者到中级水平。
+- [React Book](https://softchris.github.io/react-book/#/) - 关于 React 的免费书籍。适合初学者到中级水平。
 - [React freebook](https://github.com/EOEboh/Free-Software-Books/blob/main/books/dev-books/React/react.md) - github上整理的一些react书籍列表
 
 
