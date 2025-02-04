@@ -75,7 +75,7 @@
 
 ## 优质博客
 - [React 状态管理](https://www.redux.org.cn/) - Redux 中文文档
-- [前端精读周刊](https://github.com/ascoders/weekly) - Redux 中文文档
+- [前端精读周刊](https://github.com/ascoders/weekly) - 包含一些React文章
 - [React 状态管理](https://www.redux.org.cn/) - 包含大量 React 文章
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) - 包含对于前端领域的独特见解
 - [Dan Abramov的博客](https://overreacted.io/)
