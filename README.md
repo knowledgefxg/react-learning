@@ -4,32 +4,6 @@
 
 如果你感兴趣，这是我推荐的React学习资源：
 
-**核心技术**
-
-- [TypeScript](https://www.typescriptlang.org/docs/) - 用于类型安全
-- [React](https://reactjs.org/) - 用于构建基于组件的UI
-- [React Context](https://reactjs.org/docs/context.html) 和 [hooks](https://reactjs.org/docs/hooks-intro.html) - 用于状态管理
-
-**基础库**
-
-- [React Router](https://reactrouter.com/) - 用于导航
-- [React Query](https://react-query.tanstack.com/) - 用于通过REST获取数据
-- [Apollo GraphQL](https://www.apollographql.com/docs/) - 用于通过GraphQL获取数据
-- [React Hook Form](https://react-hook-form.com/get-started) - 用于表单处理
-- [ag-Grid](https://www.ag-grid.com) - 功能丰富的JavaScript网格组件
-- [Highcharts](https://www.highcharts.com) - 用于交互式图表
-
-**必备工具**
-
-- [Storybook](https://storybook.js.org/) - 用于隔离开发UI组件
-- [React Testing Library](https://testing-library.com/) - 用于单元测试
-- [Cypress](https://www.cypress.io/) - 用于端到端测试
-- [Mock Service Worker](https://mswjs.io/) - 用于模拟HTTP请求
-- [Prettier](https://prettier.io/) - 用于统一代码格式
-
-我创建了[React Accelerate模板](https://github.com/PublicisSapient/cra-template-accelerate)来帮助你使用上述技术栈快速启动React应用。
-
-注：如果你觉得这些内容有用，请给这个仓库点个star表示支持。
 
 ## 目录
 
@@ -39,19 +13,11 @@
 - [视频教程](#视频教程)
 - [优质博客](#优质博客)
 - [开源电子书](#开源电子书)
-- [React Hook Form](#react-hook-form)
-- [GraphQL](#graphql)
-- [Highcharts](#highcharts)
-- [ag-Grid](#ag-grid)
-- [测试最佳实践](#测试最佳实践)
-- [Jest](#jest)
-- [React Testing Library](#react-testing-library)
-- [Storybook](#storybook)
-- [Mock Service Worker](#mock-service-worker)
-- [Cypress](#cypress)
-- [Git和代码审查](#git和代码审查)
-- [视觉设计](#视觉设计)
-- [领域驱动设计](#领域驱动设计)
+- [学习社区](#react-hook-form)
+- [React 框架](#React框架)
+- [React 开发工具](#React开发工具)
+- [React 优质组件](#React优质组件)
+
 
 ## React学前知识
 
@@ -86,16 +52,25 @@
 
 
 ## 视频教程
+入门视频教程
 
+一定要边学边写，避免一遍过就结束了。
 - [React 技术全家桶](https://www.bilibili.com/video/BV1wy4y1D7JT) - B站尚硅谷React教程
 - [React 速成课程](https://www.youtube.com/watch?v=LDB4uaJ87e0) - 3小时速通 React 的基础知识
 - [React基础到项目实战](https://www.bilibili.com/video/BV1bS4y1b7NV/) - React18的视频教程
 - [最新React课程](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=1256s) - Youtube Bro Code的react课程
 - [React 初学者指导](https://www.youtube.com/watch?v=SqcY0GlETPk) 
 - [React的全套课程](https://www.youtube.com/watch?v=x4rFhThSX04) - Youtube上的React精品全套课程
-- [全栈应用项目实战](https://www.youtube.com/watch?v=MDZC8VDZnV8) - 学习在23小时内构建 4 个全栈项目
 - [React JS 初学者完整课程](https://www.youtube.com/watch?v=RVFAyFWO4go) - 包含近 9 小时的 React JS 代码和指导
+- [超全的React初学者课程列表](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) 
+
+入门实战视频
+
+要深入了解React开发流程，不仅要掌握技术细节，还要理解作者的编码思路和写作规范。
+- [全栈应用项目实战](https://www.youtube.com/watch?v=MDZC8VDZnV8) - 学习在23小时内构建 4 个全栈项目
+- [构建一个简单的电影应用](https://www.youtube.com/watch?v=G6D9cBaLViA&t=183s) - 使用 React 和 Vite 构建一个简单的电影应用
 - [边学边练](https://www.youtube.com/watch?v=iKpkVKubvKk) - 用React部署 3 个现代 Web 应用程序
+- [构建一个LMS网站](https://www.youtube.com/watch?v=p2zWawmDkF4) - 了解如何使用 React JS 创建完整的 LMS 网站，以及类似 Udemy 的网站。
 
 
 ## 优质博客
@@ -113,8 +88,52 @@
 - [React Book](https://softchris.github.io/react-book/#/) - 关于 React 的免费书籍。适合初学者到中级水平。
 - [React freebook](https://github.com/EOEboh/Free-Software-Books/blob/main/books/dev-books/React/react.md) - github上整理的一些react书籍列表
 
+## 学习社区
+在学习中我们会遇到 一些问题，可以去社区或一些网站寻找答案，下面推荐一些好的React社区网站。
+- [stack overflow](https://stackoverflow.com/questions/tagged/reactjs) 
+- [知乎上的React话题](https://www.zhihu.com/topic/20013159/hot)
+- [segmentfault React 话题](https://segmentfault.com/t/react) 
+- [V2EX的React话题](https://www.v2ex.com/go/react) 
+- [DEV社区](https://dev.to/) - 分享各种关于React的学习教程，资源等。
+- [Medium](https://medium.com/) - 高质量的英文社区，涵盖关于React的精品文章。
 
-MIT
+## React框架
+这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
+- [next](https://github.com/vercel/next.js) - React 框架
+- [remix](https://github.com/remix-run/remix) - 专注于用户界面的全栈 Web 框架
+- [gatsby](https://github.com/gatsbyjs/gatsby) - 使用 React 构建现代网站
+- [react-admin](https://github.com/marmelab/react-admin) - 用于构建 B2B 应用的前端框架
+- [refine](https://github.com/refinedev/refine) - 构建基于 React 的 CRUD 应用，无限制
+
+## React开发工具
+这些工具和库都是用来优化和增强 React 开发体验的。
+- [create-react-app](https://github.com/facebook/create-react-app) - 通过一个命令设置现代 Web 应用
+- [vite](https://github.com/vitejs/vite) - 下一代前端工具
+- [parcel](https://github.com/parcel-bundler/parcel) - 零配置的 Web 构建工具
+- [million](https://github.com/aidenybai/million) - 极快且轻量级的优化编译器
+- [reactotron](https://github.com/skellock/reactotron) - 用于检查 React 和 React Native 项目的桌面应用
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React 特定的 ESLint 规则
+- [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 通知您关于可避免的重渲染的 React 补丁
+
+## React优质组件
+这些是常用的 React 组件库，可以帮助你快速构建各种功能的组件。
+- [Awesome React Components](https://github.com/brillout/awesome-react-components)
+- [react-select](https://github.com/JedWatson/react-select) - React 的选择组件
+- [react-big-calendar](https://github.com/jquense/react-big-calendar) - 日历组件
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - 简单可重用的日期选择器组件
+- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - 创建自动适应应用的骨架屏
+- [react-qrcode](https://github.com/zpao/qrcode.react) - React 二维码组件
+- [react-archer](https://github.com/pierpo/react-archer) - 在 React 元素之间绘制箭头
+- [react-icons](https://github.com/react-icons/react-icons) - 流行图标包的 SVG React 图标
+- [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - 无偏见的可访问树
+- [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - Instagram 故事风格的 React 组件
+- [swiper](https://github.com/nolimits4web/swiper) - 最现代的移动触摸滑块
+- [keen-slider](https://github.com/rcbyr/keen-slider) - 触摸滑块轮播
+- [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) - 轻量灵活的 Cookie 同意横幅
+- [heart-switch](https://github.com/anatoliygatt/heart-switch) - 心形切换开关组件
+- [kbar](https://github.com/timc1/kbar) - 快速、便携且可扩展的 cmd+k 界面
+- [tagify](https://github.com/yairEO/tagify) - 轻量高效的标签输入组件
+- [puck](https://github.com/measuredco/puck) - React 的可视化编辑器
 
 ---
 如果这个项目对你有帮助，请不要忘记给它一个star ⭐
