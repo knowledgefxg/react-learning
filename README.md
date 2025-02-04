@@ -33,7 +33,7 @@
 
 ## 目录
 
-- [React速成课程](#react速成课程)
+- [React学前知识](#React学前知识)
 - [开发环境搭建](#开发环境搭建)
 - [CSS](#css)
 - [TypeScript](#typescript)
