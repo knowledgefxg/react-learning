@@ -58,13 +58,13 @@
 学习React肯定要有一些基础知识的，这里准备几个资源让你快速掌握前置知识, 如果你已经掌握了某些主题，可以随时跳过。
 
 - [三小时前端入门（html+css+js）](https://www.bilibili.com/video/BV1BT4y1W7Aw) 深入浅出，3小时快速掌握前端三件套核心概念。
-- [CSS零基础速成课程](https://www.youtube.com/watch?v=yfoY53QXEnI) (1:25) - Brad Traversy
-- [20分钟掌握Flexbox CSS](https://www.youtube.com/watch?v=JJSoEo8JSnc) (20:00) - Brad Traversy
-- [JavaScript零基础速成课程](https://www.youtube.com/watch?v=hdI2bqOjy3c) (1:40) - Brad Traversy
-- [TypeScript速成课程](https://www.youtube.com/watch?v=BCg4U1FzODs) (0:53) - Brad Traversy
-- [React速成课程](https://www.youtube.com/watch?v=w7ejDZ8SWv8) (1:49) - Brad Traversy
-- [Jest速成课程](https://www.youtube.com/watch?v=7r4xVDI2vho) (0:57) - Brad Traversy（不包含模拟，见下文）
-- [Jest速成课程](https://www.youtube.com/watch?v=ajiAl5UNzBU)（从0:50开始讲解模拟）- Laith Harb
+- [html+css零基础教程](https://www.bilibili.com/video/BV1p84y1P7Z5) 如果想要详细了解前端入门技术，这个课程绝对适合，通俗易懂。
+- [JavaScript 6小时初学者速成课程](https://www.youtube.com/watch?v=LEwi44cWBu8) 6小时速通js和核心概念
+- [JavaScript全套课程](https://www.youtube.com/watch?v=lfmg-EJ8gm4) 来自200多万订阅的博主js全套课程，适合想更详细去学习js的同学，用来查漏补缺。
+- [freeCodeCamp学习社区](https://www.freecodecamp.org/) 备受欢迎的编程学习社区，通过边学边练的交互式课程快速学习HTML，Javascript等多种编程语言
+- [Git初学者教程：1小时学会Git](https://www.youtube.com/watch?v=8JJ101D3knE) 拥有YouTube四百多万订阅的博主Mosh带你快速掌握Git
+- [GitHub小白指南](https://github.com/CatOneTwo/GitHub-Tutorial) 完全针对小白的教程，适合快速上手
+- [游戏化学习Git](https://learngitbranching.js.org/?locale=zh_CN) 通过互动式加可视化来教授Git
 - [编码规范和模式](./docs/coding-conventions-and-patterns.md) - Naresh Bhatia
 - [推荐的文件夹结构](./docs/folder-structure.md) - Naresh Bhatia
 - [Code Shaper](https://www.code-shaper.org/docs/getting-started/intro)（使用代码生成的React最佳实践）- Naresh Bhatia
