@@ -53,11 +53,11 @@
 - [视觉设计](#视觉设计)
 - [领域驱动设计](#领域驱动设计)
 
-## React速成课程
+## React学前知识
 
-这个速成课程旨在帮助你尽快学习React和相关Web技术。如果你已经掌握了某些主题，可以随时跳过。对于视频教程，我强烈建议你跟着讲师一起编码，这样能够加快学习效果。
+学习React肯定要有一些基础知识的，这里准备几个资源让你快速掌握前置知识, 如果你已经掌握了某些主题，可以随时跳过。
 
-- [HTML零基础速成课程](https://www.youtube.com/watch?v=UB1O30fR-EE) (1:00) - Brad Traversy
+- [三小时前端入门（html+css+js）](https://www.bilibili.com/video/BV1BT4y1W7Aw) 深入浅出，3小时快速掌握前端三件套核心概念。
 - [CSS零基础速成课程](https://www.youtube.com/watch?v=yfoY53QXEnI) (1:25) - Brad Traversy
 - [20分钟掌握Flexbox CSS](https://www.youtube.com/watch?v=JJSoEo8JSnc) (20:00) - Brad Traversy
 - [JavaScript零基础速成课程](https://www.youtube.com/watch?v=hdI2bqOjy3c) (1:40) - Brad Traversy
