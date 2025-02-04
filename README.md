@@ -35,7 +35,7 @@
 
 - [React学前知识](#React学前知识)
 - [React官方资源](#React官方资源)
-- [CSS](#css)
+- [React入门教程](#React入门教程)
 - [TypeScript](#typescript)
 - [React](#react)
 - [React Router](#react-router)
@@ -73,20 +73,17 @@
 
 ## React官方资源
 
+- [React 官方文档](https://react.dev/) - 官方 React 文档
 - [React 官方中文文档](https://zh-hans.react.dev/) - 最新的 React 官方中文文档，2023年重写
-- [Windows环境搭建](./docs/dev-machine-setup-windows.md)
+- [Create React App 中文文档](https://create-react-app.bootcss.com/) - 创建 React 项目的官方工具
+- [Create React App 中文文档](https://create-react-app.bootcss.com/) - 创建 React 项目的官方工具
 
-## CSS
+## React入门教程
 
-- [Flexbox完全指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [CSS中的像素与相对单位](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/)
-- [何时使用Em vs. Rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
-- [EM vs REM vs PX – 为什么你不应该"只使用像素"](https://engageinteractive.co.uk/blog/em-vs-rem-vs-px)
-- [5分钟学习CSS变量](https://www.freecodecamp.org/news/learn-css-variables-in-5-minutes-80cf63b4025d/)
-- [CSS变量和预处理器变量的区别](https://css-tricks.com/difference-between-types-of-css-variables/)
-- [CSS变量 - Lea Verou](https://www.youtube.com/watch?v=2an6-WVPuJU)
-- [理解BEM语法](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
-- [Get BEM - 命名](http://getbem.com/naming/)
+- [React 菜鸟教程](https://www.runoob.com/react/react-tutorial.html) - 基础语法入门
+- [React-Router 中文文档](https://react-router.docschina.org/) - React 路由中文文档
+- [React 入门实战教程](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/) - 边学边练
+- [React学习指南](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/) - 如何在3到6个月内掌握React
 
 [继续阅读其他章节...]
 
