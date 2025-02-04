@@ -34,7 +34,7 @@
 ## 目录
 
 - [React学前知识](#React学前知识)
-- [开发环境搭建](#开发环境搭建)
+- [React官方资源](#React官方资源)
 - [CSS](#css)
 - [TypeScript](#typescript)
 - [React](#react)
@@ -71,9 +71,9 @@
 
 完成后，你可以通过[这个练习](https://github.com/nareshbhatia/react-takeout-exercise)来测试你的理解。
 
-## 开发环境搭建
+## React官方资源
 
-- [MacOS环境搭建](./docs/dev-machine-setup-macos.md)
+- [React 官方中文文档](https://zh-hans.react.dev/) - 最新的 React 官方中文文档，2023年重写
 - [Windows环境搭建](./docs/dev-machine-setup-windows.md)
 
 ## CSS
