@@ -13,7 +13,7 @@
 - [视频教程](#视频教程)
 - [优质博客](#优质博客)
 - [开源电子书](#开源电子书)
-- [学习社区](#react-hook-form)
+- [学习社区](#学习社区)
 - [React 框架](#React框架)
 - [React 开发工具](#React开发工具)
 - [React 优质组件](#React优质组件)
@@ -95,6 +95,7 @@
 - [V2EX的React话题](https://www.v2ex.com/go/react) 
 - [DEV社区](https://dev.to/) - 分享各种关于React的学习教程，资源等。
 - [Medium](https://medium.com/) - 高质量的英文社区，涵盖关于React的精品文章。
+- [Reactiflux](https://www.reactiflux.com/) - 我们是一个由20多万名开发者组成的聊天社区，专注于React。
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
