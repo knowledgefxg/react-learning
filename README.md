@@ -65,9 +65,9 @@
 - [Git初学者教程：1小时学会Git](https://www.youtube.com/watch?v=8JJ101D3knE) 拥有YouTube四百多万订阅的博主Mosh带你快速掌握Git
 - [GitHub小白指南](https://github.com/CatOneTwo/GitHub-Tutorial) 完全针对小白的教程，适合快速上手
 - [游戏化学习Git](https://learngitbranching.js.org/?locale=zh_CN) 通过互动式加可视化来教授Git
-- [编码规范和模式](./docs/coding-conventions-and-patterns.md) - Naresh Bhatia
-- [推荐的文件夹结构](./docs/folder-structure.md) - Naresh Bhatia
-- [Code Shaper](https://www.code-shaper.org/docs/getting-started/intro)（使用代码生成的React最佳实践）- Naresh Bhatia
+- [MDN](https://developer.mozilla.org/zh-CN/) 非常重要的 Web 开发文档平台, 遇到不会的就去查一查。
+- [1小时快速入门node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4) 学习react前了解基本的 Node.js 概念足够
+- [AI全栈导师](https://www.studywithgpt.com/zh-cn) 利用AI技术自动生成教学文档，适合基础不扎实去细化学习。
 
 完成后，你可以通过[这个练习](https://github.com/nareshbhatia/react-takeout-exercise)来测试你的理解。
 
