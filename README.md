@@ -94,13 +94,24 @@
 - [最新React课程](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=1256s) - Youtube Bro Code的react课程
 - [React 初学者指导](https://www.youtube.com/watch?v=SqcY0GlETPk) 
 - [React的全套课程](https://www.youtube.com/watch?v=x4rFhThSX04) - Youtube上的React精品全套课程
+- [全栈应用项目实战](https://www.youtube.com/watch?v=MDZC8VDZnV8) - 学习在23小时内构建 4 个全栈项目
+- [React JS 初学者完整课程](https://www.youtube.com/watch?v=RVFAyFWO4go) - 包含近 9 小时的 React JS 代码和指导
+- [边学边练](https://www.youtube.com/watch?v=iKpkVKubvKk) - 用React部署 3 个现代 Web 应用程序
 
 ## 推荐博客
 
 - [Dan Abramov的博客](https://overreacted.io/)
 - [Kent C. Dodd的博客](https://kentcdodds.com/)
 
-## 许可证
+## 开源电子书
+- [React 技术揭秘](https://react.iamkasong.com/) - React 源码解析
+- [React 入门指南](https://www.kancloud.cn/kancloud/react-quickstart/44631) - 快速入门React
+- [React 技术揭秘](https://react.iamkasong.com/) - React 源码解析
+- [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html) - 很细的入门教程
+- [React 入门教程](https://softchris.github.io/react-book/#/) - 很细的入门教程
+- [React Book](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html) - 关于 React 的免费书籍。适合初学者到中级水平。
+- [React freebook](https://github.com/EOEboh/Free-Software-Books/blob/main/books/dev-books/React/react.md) - github上整理的一些react书籍列表
+
 
 MIT
 
