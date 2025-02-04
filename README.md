@@ -41,7 +41,6 @@
 - [React 官方文档](https://react.dev/) - 官方 React 文档
 - [React 官方中文文档](https://zh-hans.react.dev/) - 最新的 React 官方中文文档，2023年重写
 - [Create React App 中文文档](https://create-react-app.bootcss.com/) - 创建 React 项目的官方工具
-- [Create React App 中文文档](https://create-react-app.bootcss.com/) - 创建 React 项目的官方工具
 
 ## React入门教程
 
