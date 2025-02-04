@@ -36,7 +36,7 @@
 - [React学前知识](#React学前知识)
 - [React官方资源](#React官方资源)
 - [React入门教程](#React入门教程)
-- [TypeScript](#typescript)
+- [视频教程](#视频教程)
 - [React](#react)
 - [React Router](#react-router)
 - [React Hook Form](#react-hook-form)
@@ -85,18 +85,15 @@
 - [React 入门实战教程](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/) - 边学边练
 - [React学习指南](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/) - 如何在3到6个月内掌握React
 
-[继续阅读其他章节...]
 
-## 常用链接
+## 视频教程
 
-- [React官方文档](https://reactjs.org/docs/getting-started.html)
-- [TypeScript官方文档](https://www.typescriptlang.org/docs/)
-- [React Router文档](https://reactrouter.com/docs/en/v6)
-- [React Hook Form文档](https://react-hook-form.com/get-started)
-- [Apollo GraphQL教程](https://odyssey.apollographql.com/)
-- [Storybook入门指南](https://storybook.js.org/docs/react/get-started/introduction)
-- [React Testing Library指南](https://testing-library.com/docs/)
-- [Cypress文档](https://docs.cypress.io/guides/overview/why-cypress)
+- [React 技术全家桶](https://www.bilibili.com/video/BV1wy4y1D7JT) - B站尚硅谷React教程
+- [React 速成课程](https://www.youtube.com/watch?v=LDB4uaJ87e0) - 3小时速通 React 的基础知识
+- [React基础到项目实战](https://www.bilibili.com/video/BV1bS4y1b7NV/) - React18的视频教程
+- [最新React课程](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=1256s) - Youtube Bro Code的react课程
+- [React 初学者指导](https://www.youtube.com/watch?v=SqcY0GlETPk) 
+- [React的全套课程](https://www.youtube.com/watch?v=x4rFhThSX04) - Youtube上的React精品全套课程
 
 ## 推荐博客
 
