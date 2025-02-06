@@ -14,6 +14,7 @@
 - [优质博客](#优质博客)
 - [开源电子书](#开源电子书)
 - [学习社区](#学习社区)
+- [社交账号](#社交账号)
 - [React 框架](#React框架)
 - [React 开发工具](#React开发工具)
 - [React 优质组件](#React优质组件)
@@ -96,6 +97,11 @@
 - [DEV社区](https://dev.to/) - 分享各种关于React的学习教程，资源等。
 - [Medium](https://medium.com/) - 高质量的英文社区，涵盖关于React的精品文章。
 - [Reactiflux](https://www.reactiflux.com/) - 我们是一个由20多万名开发者组成的聊天社区，专注于React。
+
+## 社交账号
+这里收集一些各个平台的社交账号，关注这些账号可以获得关于React的最新信息等
+- [React官方账号](https://x.com/reactjs)
+- [React Native官方账号](https://x.com/reactnative)
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
