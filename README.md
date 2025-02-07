@@ -102,6 +102,8 @@
 这里收集一些各个平台的社交账号，关注这些账号可以获得关于React的最新信息等
 - [React官方账号](https://x.com/reactjs)
 - [React Native官方账号](https://x.com/reactnative)
+- [DEV Community官方账号](https://x.com/ThePracticalDev) - 有各种React教程博客
+- [freeCodeCamp官方账号](https://x.com/freeCodeCamp) - 不定期分享各种编程教程，知识，包括React
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
