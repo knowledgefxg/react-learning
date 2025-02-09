@@ -51,6 +51,7 @@
 - [React-Router 中文文档](https://react-router.docschina.org/) - React 路由中文文档
 - [React 入门实战教程](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/) - 边学边练
 - [React学习指南](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/) - 如何在3到6个月内掌握React
+- [ES6特性](https://www.w3schools.com/js/js_es6.asp) - 查看ES6和其他最新版本特性
 
 
 ## 视频教程
