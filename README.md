@@ -36,6 +36,8 @@
 - [1小时快速入门node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4) 学习react前了解基本的 Node.js 概念足够
 - [AI全栈导师](https://www.studywithgpt.com/zh-cn) 利用AI技术自动生成教学文档，适合基础不扎实去细化学习。
 
+#### ***[50projects50days](https://github.com/bradtraversy/50projects50days) 学完之后你可以这个通过这个仓库来做 50 个迷你小项目来测试磨练下基础前端技能。***
+
 
 ## React官方资源
 
