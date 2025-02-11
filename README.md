@@ -34,6 +34,7 @@
 - [游戏化学习Git](https://learngitbranching.js.org/?locale=zh_CN) 通过互动式加可视化来教授Git
 - [MDN](https://developer.mozilla.org/zh-CN/) 非常重要的 Web 开发文档平台, 遇到不会的就去查一查。
 - [1小时快速入门node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4) 学习react前了解基本的 Node.js 概念足够
+- [Node.js零基础视频教程](https://www.bilibili.com/video/BV1gM411W7ex) nodejs新手到高手，如果有颗全栈梦，这个技术讲得很细
 - [AI全栈导师](https://www.studywithgpt.com/zh-cn) 利用AI技术自动生成教学文档，适合基础不扎实去细化学习。
 
 #### ***[50projects50days](https://github.com/bradtraversy/50projects50days) 学完之后你可以这个通过这个仓库来做 50 个迷你小项目来测试磨练下基础前端技能。***
@@ -107,6 +108,7 @@
 - [React Native官方账号](https://x.com/reactnative)
 - [DEV Community官方账号](https://x.com/ThePracticalDev) - 有各种React教程博客
 - [freeCodeCamp官方账号](https://x.com/freeCodeCamp) - 不定期分享各种编程教程，知识，包括React
+- [React DEV](https://x.com/reactdevz) - 不定期分享分享与React相关的教程、课程、书籍、工作……
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
