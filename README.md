@@ -53,6 +53,8 @@
 - [React 入门实战教程](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/) - 边学边练
 - [React学习指南](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/) - 如何在3到6个月内掌握React
 - [ES6特性](https://www.w3schools.com/js/js_es6.asp) - 查看ES6和其他最新版本特性
+- [React 备忘单](https://www.shecodes.io/cheatsheets/react) - 针对初学者的全面 React 备忘单
+- [React 模式](https://reactpatterns.cn/) - 18 种短小精悍的 React 模式案例，通俗易懂值得收藏
 
 
 ## 视频教程
@@ -66,7 +68,8 @@
 - [React 初学者指导](https://www.youtube.com/watch?v=SqcY0GlETPk) 
 - [React的全套课程](https://www.youtube.com/watch?v=x4rFhThSX04) - Youtube上的React精品全套课程
 - [React JS 初学者完整课程](https://www.youtube.com/watch?v=RVFAyFWO4go) - 包含近 9 小时的 React JS 代码和指导
-- [超全的React初学者课程列表](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) 
+- [超全的React初学者课程列表](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
+- [使用 Redux Toolkit学习React 18](https://www.youtube.com/watch?v=x4rFhThSX04) - 针对初学者的完整课程中学习如何使用React 18和Redux Toolkit
 
 入门实战视频
 
@@ -74,8 +77,10 @@
 - [全栈应用项目实战](https://www.youtube.com/watch?v=MDZC8VDZnV8) - 学习在23小时内构建 4 个全栈项目
 - [构建一个简单的电影应用](https://www.youtube.com/watch?v=G6D9cBaLViA&t=183s) - 使用 React 和 Vite 构建一个简单的电影应用
 - [边学边练](https://www.youtube.com/watch?v=iKpkVKubvKk) - 用React部署 3 个现代 Web 应用程序
-- [构建一个LMS网站](https://www.youtube.com/watch?v=p2zWawmDkF4) - 了解如何使用 React JS 创建完整的 LMS 网站，以及类似 Udemy 的网站。
-
+- [通过一个小项目学习React](https://www.youtube.com/watch?v=Rh3tobg7hEo) - 通过一个项目分解您需要了解的React中的所有最重要的概念。
+- [构建一个LMS网站](https://www.youtube.com/watch?v=p2zWawmDkF4) - 了解如何使用 React JS 创建完整的 LMS 网站，以及类似 Udemy 的网站
+- [全栈应用项目实战](https://www.youtube.com/watch?v=MDZC8VDZnV8) - 学习在23小时内构建 4 个全栈项目
+- [掌握React 18 与TypeScript!](https://www.youtube.com/watch?v=SqcY0GlETPk) - 使用TypeScript学习React 18并构建一个出色的前端应用程序
 
 ## 优质博客
 - [React 状态管理](https://www.redux.org.cn/) - Redux 中文文档
@@ -109,6 +114,7 @@
 - [DEV Community官方账号](https://x.com/ThePracticalDev) - 有各种React教程博客
 - [freeCodeCamp官方账号](https://x.com/freeCodeCamp) - 不定期分享各种编程教程，知识，包括React
 - [React DEV](https://x.com/reactdevz) - 不定期分享分享与React相关的教程、课程、书籍、工作……
+- [React Trends](https://x.com/ReactJSTrends) - 不定期发布ReactJs最热门趋势
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
