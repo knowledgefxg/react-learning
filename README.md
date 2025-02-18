@@ -18,6 +18,7 @@
 - [React 框架](#React框架)
 - [React 开发工具](#React开发工具)
 - [React 优质组件](#React优质组件)
+- [其他工具/资源](#其他工具/资源)
 
 
 ## React学前知识
@@ -55,6 +56,7 @@
 - [ES6特性](https://www.w3schools.com/js/js_es6.asp) - 查看ES6和其他最新版本特性
 - [React 备忘单](https://www.shecodes.io/cheatsheets/react) - 针对初学者的全面 React 备忘单
 - [React 模式](https://reactpatterns.cn/) - 18 种短小精悍的 React 模式案例，通俗易懂值得收藏
+- [React 学习路径](https://github.com/tuture-dev/react-roadmap) - React 前端工程师实战学习路线
 
 
 ## 视频教程
@@ -115,6 +117,7 @@
 - [freeCodeCamp官方账号](https://x.com/freeCodeCamp) - 不定期分享各种编程教程，知识，包括React
 - [React DEV](https://x.com/reactdevz) - 不定期分享分享与React相关的教程、课程、书籍、工作……
 - [React Trends](https://x.com/ReactJSTrends) - 不定期发布ReactJs最热门趋势
+- [Lee Robinson](https://x.com/leeerob) - 教一些react，next.js的知识
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
@@ -157,6 +160,8 @@
 ## 其他工具/资源
 - [codesandbox](https://codesandbox.io/) - 在线代码编辑器，让开发者无需本地配置，适合快速开发调试。
 - [CodePen](https://codepen.io/) - 一个在线前端开发平台，可在浏览器中创建、编辑和分享前端代码。
-
+- [swr](https://github.com/vercel/swr) - 用于数据请求的 React Hooks 库。该项目是帮助开发者简化数据请求逻辑的 React 库
+- [million](https://github.com/aidenybai/million) - 优化 React 性能，让您的 React 速度在几分钟内（而不是几个月）提高 70%。
+  
 ---
 如果这个项目对你有帮助，请不要忘记给它一个star ⭐
