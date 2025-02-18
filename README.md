@@ -18,7 +18,7 @@
 - [React 框架](#React框架)
 - [React 开发工具](#React开发工具)
 - [React 优质组件](#React优质组件)
-- [其他工具/资源](#其他工具/资源)
+- [其他工具/资源](#其他工具资源)
 
 
 ## React学前知识
@@ -157,7 +157,7 @@
 - [tagify](https://github.com/yairEO/tagify) - 轻量高效的标签输入组件
 - [puck](https://github.com/measuredco/puck) - React 的可视化编辑器
 
-## 其他工具/资源
+## 其他工具资源
 - [codesandbox](https://codesandbox.io/) - 在线代码编辑器，让开发者无需本地配置，适合快速开发调试。
 - [CodePen](https://codepen.io/) - 一个在线前端开发平台，可在浏览器中创建、编辑和分享前端代码。
 - [swr](https://github.com/vercel/swr) - 用于数据请求的 React Hooks 库。该项目是帮助开发者简化数据请求逻辑的 React 库
