@@ -63,7 +63,7 @@
 
 
 ## 视频教程
-入门视频教程
+### 入门视频教程
 
 一定要边学边写，避免一遍过就结束了。
 - [React 技术全家桶](https://www.bilibili.com/video/BV1wy4y1D7JT) - B站尚硅谷React教程
@@ -76,7 +76,7 @@
 - [超全的React初学者课程列表](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza)
 - [使用 Redux Toolkit学习React 18](https://www.youtube.com/watch?v=x4rFhThSX04) - 针对初学者的完整课程中学习如何使用React 18和Redux Toolkit
 
-入门实战视频
+### 入门实战视频
 
 要深入了解React开发流程，不仅要掌握技术细节，还要理解作者的编码思路和写作规范。
 - [全栈应用项目实战](https://www.youtube.com/watch?v=MDZC8VDZnV8) - 学习在23小时内构建 4 个全栈项目
@@ -88,13 +88,13 @@
 - [掌握React 18 与TypeScript!](https://www.youtube.com/watch?v=SqcY0GlETPk) - 使用TypeScript学习React 18并构建一个出色的前端应用程序
 - [React Native 速成课程](https://www.youtube.com/watch?v=bCpFbERgj7s) - 3小时内构建一个移动应用程序
 
-精选Youtube频道
+### 精选Youtube频道
 
 收集适合学习React和相关技术的优质频道
 
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) - 专注于提供高质量的JavaScript和前端开发教程，通过实际项目构建来教授现代web开发技术，特别关注React、Next.js等流行框架和全栈应用开发
 
-其他
+### 其他
 
 学习React当中遇到的其他方面知识汇总
 
