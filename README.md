@@ -140,6 +140,7 @@
 - [@housecor](https://x.com/housecor) - 每天分享JavaScript和React开发技巧，内容实用
 - [kentcdodds](https://x.com/kentcdodds) - Epic React Dev课程创作者，提供全面React教程
 - [@ryanflorence](https://x.com/ryanflorence) - Remix联合创始人，讨论React框架和路由相关内容，适合框架学习者
+- [@BroCode1508](https://x.com/BroCode1508) - 前端开发人员，精通 React.js、Next.js、Node.js 和 Express.js
 
 ## React框架
 这些是一些常用的 React 框架，它们可以帮助你快速开发不同类型的 React 应用。每个框架都有不同的特点和用途，适合不同的项目需求。
