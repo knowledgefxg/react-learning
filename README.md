@@ -93,6 +93,7 @@
 收集适合学习React和相关技术的优质频道
 
 - [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) - 专注于提供高质量的JavaScript和前端开发教程，通过实际项目构建来教授现代web开发技术，特别关注React、Next.js等流行框架和全栈应用开发
+- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh) - 提供了完整的React入门到精通的课程，涵盖React基础知识、组件、props、状态管理等
 
 ### 其他
 
