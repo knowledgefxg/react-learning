@@ -53,6 +53,7 @@
 ## React入门教程
 
 - [React 菜鸟教程](https://www.runoob.com/react/react-tutorial.html) - 基础语法入门
+- [针对新手的React学习手册](https://www.freecodecamp.org/news/react-for-beginners-handbook/) - 涵盖最基本的react核心概念，方便随时查阅学习，非常适合小白。
 - [React-Router 中文文档](https://react-router.docschina.org/) - React 路由中文文档
 - [React 入门实战教程](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/) - 边学边练
 - [React学习指南](https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/) - 如何在3到6个月内掌握React
