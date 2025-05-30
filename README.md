@@ -61,6 +61,7 @@
 - [React 备忘单](https://www.shecodes.io/cheatsheets/react) - 针对初学者的全面 React 备忘单
 - [React 模式](https://reactpatterns.cn/) - 18 种短小精悍的 React 模式案例，通俗易懂值得收藏
 - [React 学习路径](https://github.com/tuture-dev/react-roadmap) - React 前端工程师实战学习路线
+- [React visualized](https://react.gg/visualized) - 一个专门用于可视化解释 React 框架概念的教育网站
 
 
 ## 视频教程
