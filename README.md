@@ -118,6 +118,7 @@
 - [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html) - 很细的入门教程
 - [React Book](https://softchris.github.io/react-book/#/) - 关于 React 的免费书籍。适合初学者到中级水平。
 - [React freebook](https://github.com/EOEboh/Free-Software-Books/blob/main/books/dev-books/React/react.md) - github上整理的一些react书籍列表
+- [React 19源码解析](https://blog.xiguadev.com/react-code/overview/interview) - 从基础到深入，全方位解析 React 19 的架构设计与实现原理。
 
 ## 学习社区
 在学习中我们会遇到 一些问题，可以去社区或一些网站寻找答案，下面推荐一些好的React社区网站。
