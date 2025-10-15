@@ -53,6 +53,7 @@
 ## React入门教程
 
 - [React 菜鸟教程](https://www.runoob.com/react/react-tutorial.html) - 基础语法入门
+- [2025 React 19课程](https://www.youtube.com/watch?v=TtPXvEcE11E) - 新鲜出炉的最新2025 React 19课程，现在免费
 - [针对新手的React学习手册](https://www.freecodecamp.org/news/react-for-beginners-handbook/) - 涵盖最基本的react核心概念，方便随时查阅学习，非常适合小白。
 - [React-Router 中文文档](https://react-router.docschina.org/) - React 路由中文文档
 - [React 入门实战教程](https://x.zhixing.co/courses/react-hands-on-tutorial-for-beginners/) - 边学边练
@@ -62,6 +63,7 @@
 - [React 模式](https://reactpatterns.cn/) - 18 种短小精悍的 React 模式案例，通俗易懂值得收藏
 - [React 学习路径](https://github.com/tuture-dev/react-roadmap) - React 前端工程师实战学习路线
 - [React visualized](https://react.gg/visualized) - 一个专门用于可视化解释 React 框架概念的教育网站
+- [如何使用 React Developer Tools](https://www.freecodecamp.org/news/how-to-use-react-devtools/) - 通过一些有用的示例向您展示如何使用 React Developer Tools
 
 
 ## 视频教程
