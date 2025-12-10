@@ -49,6 +49,7 @@
 - [React 官方文档](https://react.dev/) - 官方 React 文档
 - [React 官方中文文档](https://zh-hans.react.dev/) - 最新的 React 官方中文文档，2023年重写
 - [Create React App 中文文档](https://create-react-app.bootcss.com/) - 创建 React 项目的官方工具
+- [React Developer Tools](https://chromewebstore.google.com/detail/fmkadmapgofadopljbjfkapdkoienihi?utm_source=item-share-cb) - React 开发者必备的调试工具，可以看到页面是由哪些 React 组件搭建起来的
 
 ## React入门教程
 
