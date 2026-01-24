@@ -101,6 +101,10 @@
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh) - 提供了完整的React入门到精通的课程，涵盖React基础知识、组件、props、状态管理等
 - [Codevolution](https://www.youtube.com/@Codevolution) - 每周更新最新的Web技术课程，涵盖大量React， js，next.js相关课程
 - [Code Bootcamp](https://www.youtube.com/@TheCodeBootcamp/videos) - 用可视化图解的方式深入浅出地讲解React核心概念的油管频道
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp) - 提供大量免费的编程教程，包括React、JavaScript等前端技术的完整课程
+- [Traversy Media](https://www.youtube.com/@TraversyMedia) - 涵盖各种Web开发技术的实用教程，包括React及其生态系统
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - 用简单易懂的方式讲解React和其他Web开发技术
+- [The Net Ninja](https://www.youtube.com/@NetNinja) - 提供系统化的React教程系列，从基础到高级特性
 
 ### 其他
 
