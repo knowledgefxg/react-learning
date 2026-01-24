@@ -16,14 +16,229 @@
 ### 本地运行导航网站
 
 ```bash
+# 进入网站目录
 cd website
+
+# 安装依赖
 npm install
+
+# 启动开发服务器
 npm run dev
+
+# 访问 http://localhost:5173
+```
+
+### 网站功能特性
+
+- 📱 响应式设计 - 完美适配移动端、平板和桌面端
+- 🔍 实时搜索 - 支持按标题和描述快速搜索资源
+- 🎨 现代化 UI - 暗色主题 + 流畅动画效果
+- 🚀 极速加载 - 基于 Vite 构建，启动和热更新超快
+- 📑 13个分类 - 涵盖 React 学习全流程
+- ⌨️ 键盘友好 - 支持 Cmd+K 快捷搜索
+
+### 技术栈
+
+- **前端**: React 19 + TypeScript
+- **构建**: Vite
+- **样式**: Tailwind CSS
+- **图标**: Lucide React
+- **部署**: Vercel
+
+> 💡 详细文档请查看 [website/README.md](./website/README.md)
+
+---
+
+---
+
+## 如何使用本仓库
+
+### 📖 对于学习者
+
+1. **浏览在线网站** - 访问 [react.knowledgefxg.com](https://react.knowledgefxg.com/) 获得最佳浏览体验
+2. **使用搜索功能** - 按 Cmd+K（Mac）或 Ctrl+K（Windows）快速搜索资源
+3. **按需学习** - 根据自己的水平选择对应分类的资源
+4. **收藏书签** - 将有用的资源添加到浏览器书签
+
+### 💻 对于开发者
+
+1. **Fork 仓库** - 克隆到自己的 GitHub
+2. **本地运行** - 按上方说明启动开发服务器
+3. **添加资源** - 编辑 `website/src/data/resources.ts`
+4. **提交 PR** - 分享你的改进
+
+### 🎯 学习路径建议
+
+如果你是 React 新手，建议按以下顺序学习：
+
+#### 第一阶段：打基础 (1-2周)
+- 学习 HTML/CSS 基础
+- 掌握 JavaScript ES6+ 语法
+- 了解 Git 基本操作
+
+#### 第二阶段：入门 React (2-3周)
+1. 阅读 [React 官方中文文档](https://zh-hans.react.dev/)
+2. 跟随 [React 菜鸟教程](https://www.runoob.com/react/react-tutorial.html)
+3. 观看 [React 技术全家桶](https://www.bilibili.com/video/BV1wy4y1D7JT)
+
+#### 第三阶段：深入学习 (3-4周)
+- 学习 React Hooks 深入使用
+- 掌握状态管理（Redux/Zustand）
+- 了解 React Router 路由管理
+- 阅读 [React 模式](https://reactpatterns.cn/)
+
+#### 第四阶段：实战项目 (4-6周)
+- 跟随教程完成 2-3 个完整项目
+- 独立完成一个个人项目
+- 学习最佳实践和代码规范
+
+#### 第五阶段：进阶全栈 (持续学习)
+- 学习 Next.js 全栈框架
+- 掌握后端 API 集成
+- 了解部署和运维知识
+
+---
+
+## 贡献指南
+
+我们欢迎任何形式的贡献！🎉
+
+### 如何贡献资源
+
+1. **确保资源质量**
+   - ✅ 内容优质，适合 React 学习者
+   - ✅ 链接有效，可正常访问
+   - ✅ 中文资源优先，英文资源次之
+   - ✅ 免费资源优先
+
+2. **添加资源步骤**
+   ```bash
+   # 1. Fork 并克隆仓库
+   git clone https://github.com/your-username/react-learning.git
+   
+   # 2. 创建新分支
+   git checkout -b add-new-resource
+   
+   # 3. 编辑资源文件
+   # 编辑 website/src/data/resources.ts
+   # 同时更新主 README.md（如果需要）
+   
+   # 4. 提交更改
+   git add .
+   git commit -m "feat: 添加新资源 - 资源名称"
+   
+   # 5. 推送并创建 PR
+   git push origin add-new-resource
+   ```
+
+3. **资源格式**
+   ```typescript
+   {
+     title: "资源名称",
+     url: "https://example.com",
+     description: "简短描述（建议50字以内）"
+   }
+   ```
+
+### 报告问题
+
+发现了问题？请：
+1. 检查 [Issues](https://github.com/knowledgefxg/react-learning/issues) 是否已存在
+2. 如果没有，创建新 Issue
+3. 清晰描述问题和重现步骤
+
+### 提交规范
+
+使用语义化提交信息：
+- `feat:` 新增功能或资源
+- `fix:` 修复问题
+- `docs:` 文档更新
+- `style:` 代码格式调整
+- `refactor:` 代码重构
+- `perf:` 性能优化
+
+示例：
+```
+feat: 添加 React 19 新特性教程
+fix: 修复移动端显示问题
+docs: 完善安装说明
 ```
 
 ---
 
-嘿，欢迎来到React学习资源库！这里整理了一些React全栈开发的学习资料，从零基础到实战项目都有覆盖。不管你是刚入门的新手，还是想提升技术的开发者，都能在这里找到适合自己的内容。仓库的目标很简单：希望每个人都能快速上手React开发，并且能够构建出可用于生产环境的应用。别担心经验不足，每个高手都是从新手开始的。带着热情和坚持，相信你也可以做到！这个资源库会持续更新，如果你也有好的学习资源，欢迎分享出来，让我们一起打造更好的学习社区。毕竟，学习的路上有伴才更有趣，不是吗？ :smile:
+## 常见问题
+
+### Q: 资源太多，不知道从哪里开始？
+
+A: 建议先阅读 [React 官方中文文档](https://zh-hans.react.dev/)，然后根据上方的"学习路径建议"逐步学习。
+
+### Q: 视频教程看不懂怎么办？
+
+A: 可以先从中文视频开始，如 B 站的尚硅谷教程。同时结合文档和博客文章学习效果更好。
+
+### Q: 如何判断自己的学习进度？
+
+A: 尝试独立完成一个小项目，比如 Todo List、天气应用等。能够独立完成就说明基础扎实了。
+
+### Q: 需要掌握所有资源吗？
+
+A: 不需要。选择适合自己的资源即可。重要的是动手实践，而不是囤积资源。
+
+### Q: 学完 React 后该学什么？
+
+A: 建议学习：
+- Next.js（全栈框架）
+- TypeScript（类型系统）
+- 状态管理库（Redux/Zustand）
+- 测试（Jest/React Testing Library）
+
+---
+
+## 项目统计
+
+- 📚 资源总数：200+
+- 🏷️ 分类数量：13个
+- 🌐 在线访问：[react.knowledgefxg.com](https://react.knowledgefxg.com/)
+- ⭐ GitHub Stars：欢迎 Star 支持
+- 👥 贡献者：期待你的加入
+
+---
+
+## 技术支持
+
+- 💬 [GitHub Discussions](https://github.com/knowledgefxg/react-learning/discussions) - 讨论交流
+- 🐛 [GitHub Issues](https://github.com/knowledgefxg/react-learning/issues) - 问题反馈
+- 📧 Email：your-email@example.com
+
+---
+
+## 致谢
+
+感谢所有资源的创作者和贡献者，是你们让 React 学习变得更简单！
+
+特别感谢：
+- React 官方团队
+- 各位教程作者
+- 开源社区贡献者
+- 所有 Star 和 Fork 的朋友们
+
+---
+
+## 更新日志
+
+### 2026-01-24
+- ✨ 优化了网站 UI 设计
+- 📝 完善了项目文档
+- 🚀 配置了 SSH 部署
+
+### 更早版本
+- 初始化项目
+- 添加基础资源
+- 上线导航网站
+
+---
+
+嘿，欢迎来到React学习资源库！这里整理了一些React全栈开发的学习资料，从零基础到实战项目都有覆盖。不管你是刚入门的新手，还是想提升技术的开发者，都能在这里找到适合自己的内容。仓库的目标很简单：希望每个人都能快速上手React开发，并且能够构建出可用于生产环境的应用。别担心经验不足，每个高手都是从新手开始的。带着热情和坚持，相信你也可以做到！这个资源库会持续更新，如果你也有好的学习资源，欢迎分享出来，让我们一起打造更好的学习社区。毕竟，学习的路上有伴才更有趣，不是吗？
 
 如果你感兴趣，这是我推荐的React学习资源：
 
